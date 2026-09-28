@@ -5,6 +5,11 @@ h1 {
 body {
   background-color: #a9d8ee;
 }
+
+img {
+  margin-left: 0;
+}
+
 button {
   font-size:20px;
   margin-left:400;
